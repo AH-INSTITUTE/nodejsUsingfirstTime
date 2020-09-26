@@ -1,0 +1,14 @@
+{
+  "name": "nodemongofirst",
+  "version": "1.0.0",
+  "description": "first time no description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abuhasan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
